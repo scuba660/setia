@@ -1,7 +1,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",Allplay Ent
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
-
+1
 
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",VTV HD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
